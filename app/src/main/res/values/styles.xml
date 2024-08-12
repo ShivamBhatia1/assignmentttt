@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/values/styles.xml -->
+<resources>
+    <!-- Define a custom button style -->
+    <style name="BlueButtonStyle" parent="Widget.AppCompat.Button">
+        <item name="android:background">#0000FF</item> <!-- Blue color -->
+        <item name="android:textColor">#FFFFFF</item> <!-- White text color -->
+    </style>
+</resources>
